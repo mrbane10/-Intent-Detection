@@ -1,6 +1,6 @@
-# Intent Classification with BERT on MASSIVE Dataset
+# Intent Classification with BERT on AMAZON MASSIVE Dataset
 
-This repository provides a pipeline for intent classification using a BERT-based transformer model, fine-tuned on the MASSIVE dataset with 60 unique intent labels.
+This repository provides a pipeline for intent classification using a BERT-based transformer model, fine-tuned on the AMAZON MASSIVE dataset with 60 unique intent labels.
 
 ## Features:
 - **Data Preprocessing**: Removes stop words and tokenizes the dataset.
